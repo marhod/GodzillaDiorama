@@ -18,4 +18,4 @@ The Arduino pins are :
 * Pin 6: NeoPixels Data
 * Pin 9: Smoker Relay
 
-![Image description](https://github.com/marhod/GodzillaDiorama/blob/master/Godzilla%20Circuit.jpg?raw=true)
+![Image description](https://github.com/marhod/GodzillaDiorama/blob/master/Godzilla%20Circuit%20v2.jpg?raw=true)
